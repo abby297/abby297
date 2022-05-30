@@ -15,7 +15,7 @@ C and <br> a quick learner.</p>
 
 - 🌱 I’m currently learning **flutter**
 
-- 💬 Ask me about **flutter,HTML,CSS,C**
+- 💬 Ask me about **flutter,HTML,CSS,C,C++**
 
 - 📫 How to reach me **abhishekmgs9@gmail.com**
 
