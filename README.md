@@ -8,8 +8,8 @@
 <h4> About me</h4>
 <p> a frontend web developer, 
 and mobile app developer based on
-flutter framework. Also knows Arduino UNO,
-C and <br> a quick learner.</p>
+flutter framework.Knows Arduino UNO,
+C and C++ and <br> a quick learner.</p>
 
 - 🔭 I’m currently working on **Ride-Share App**
 
