@@ -15,7 +15,7 @@ C , C++ and <br> a quick learner.</p>
 
 - 🌱 currently learning **MySQL**
 
-- 💬 Ask me about **C,C++,MySQL,JavaScript,flutter,HTML,CSS**
+- 💬 Ask me about **C, C++, MySQL, JavaScript, flutter, HTML, CSS**
 
 - 📫 How to reach me **abhishekmgs9@gmail.com**
 
