@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://twitter.com/abhishe21569572" target="blank"><img src="https://img.shields.io/twitter/follow/abhishe21569572?logo=twitter&style=for-the-badge" alt="abhishe21569572" /></a> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h4> About me</h4>
-<p> a frontend web developer, 
+<p> A frontend web developer, 
 and mobile app developer based on
-flutter framework.Knows Arduino UNO,
+flutter framework.Knows MySQL,
 C , C++ and <br> a quick learner.</p>
 
 - 🔭 currently working on **Ride-Share App**
