@@ -1,6 +1,6 @@
 <!---[![MasterHead](here would be the link of the banner)]---->
 <h1 align="center">Hi 👋, I'm Abhishekh Kumar</h1>
-<h3 align="center">FRA Intern at PhonePe</h3>
+<h3 align="center">Flutter Developer</h3>
 
 <img align="right" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 <p align="left"> <a href="https://twitter.com/abhishe21569572" target="blank"><img src="https://img.shields.io/twitter/follow/abhishe21569572?logo=twitter&style=for-the-badge" alt="abhishe21569572" /></a> </p>
@@ -13,7 +13,7 @@ C , C++ and <br> a quick learner.</p>
 
 - 🔭 currently working on **Ride-Share App**
 
-- 🌱 currently learning **MySQL**
+- 🌱 currently learning **SQL**
 
 - 💬 Ask me about **C, C++, MySQL, JavaScript, flutter, HTML, CSS**
 
