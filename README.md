@@ -1,25 +1,23 @@
-<!---[![MasterHead](here would be the link of the banner)]---->
+<!---[![MasterHead](add banner image URL if needed)]--->
 <h1 align="center">Hi 👋, I'm Abhishekh Kumar</h1>
-<h3 align="center">Flutter Developer</h3>
+<h3 align="center">Data Analyst | Decision Scientist | Learner & Builder</h3>
 
 <img align="right" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+
 <p align="left"> <a href="https://twitter.com/abhishe21569572" target="blank"><img src="https://img.shields.io/twitter/follow/abhishe21569572?logo=twitter&style=for-the-badge" alt="abhishe21569572" /></a> </p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 <h4> About me</h4>
-<p> A frontend web developer, 
-and mobile app developer based on
-flutter framework.Knows SQL,
-C , C++ and <br> a quick learner.</p>
+<p>
+I'm a data-driven problem solver currently working as a <strong>Decision Scientist at PhonePe</strong>, focused on analytics, machine learning workflows, and automation for large-scale digital platforms. I enjoy turning raw data into actionable insights and building systems that scale.
+</p>
 
-- 🔭 currently working on **Ride-Share App**
+- 🔭 Currently working on **anomaly detection logic, dashboarding, and automation**
+- 🌱 Learning more about **model deployment and product analytics**
+- 💬 Ask me about **SQL, Python (pandas, matplotlib), Airflow, MLflow, QlikSense**
+- 📫 Reach me at **abhishekh.kumar0045@gmail.com**
+- ⚡ Fun fact: I believe clarity > cleverness — and data proves it.
 
-- 🌱 currently learning **SQL**
-
-- 💬 Ask me about **C, C++, MySQL, JavaScript, flutter, HTML, CSS**
-
-- 📫 How to reach me **abhishekmgs9@gmail.com**
-
-- ⚡ Fun fact **humour is the pain Killer😁**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,9 +26,23 @@ C , C++ and <br> a quick learner.</p>
 <a href="https://instagram.com/proabhi22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="proabhi22" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+---
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/47359?s=200&v=4" alt="airflow" width="40" height="40"/></a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="40" height="40"/></a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/></a>
+  <a href="https://www.qlik.com/us/products/qliksense" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/qlik.svg" alt="qliksense" width="40" height="40"/></a>
+</p>
+
+---
+
+<h3 align="left">GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abby297&show_icons=true&locale=en&layout=compact" alt="abby297" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abby297&show_icons=true&locale=en" alt="abby297" /></p>
