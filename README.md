@@ -21,6 +21,7 @@ I'm a data-driven problem solver currently working as a <strong>Decision Scienti
 <h1>Not to forget that once:</h1>
 <p>
   <b>I was into Web development and Android app development, Love Flutter❤️.</b>
+  <p>Forever greateful to <a href="https://www.nitp.ac.in/">Nit Patna<a></p>
 </p>
 
 
