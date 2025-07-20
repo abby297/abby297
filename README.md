@@ -1,7 +1,7 @@
 <!---[![MasterHead](add banner image URL if needed)]--->
 <h1 align="center">Hi 👋, I'm Abhishekh Kumar</h1>
 <h3 align="center">Data Analyst | Decision Scientist | Learner & Builder</h3>
-<img align="right" width="400" src="[https://giphy.com/gifs/scaler-official-monday-computer-laptop-scZPhLqaVOM1qG4lT9](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnd3bHp0OTVkb2phdmU1dW15MXI0bmNmb245MjU2dWtvOGUwbGhxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif)" alt="Giph not loading"/>
+<img align="right" width="400" src="https://giphy.com/gifs/scaler-official-monday-computer-laptop-scZPhLqaVOM1qG4lT9" alt="Giph not loading"/>
 
 <!-- the first image i used  -->
 <!--<img align="right" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/> -->
