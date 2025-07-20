@@ -16,33 +16,7 @@ I'm a data-driven problem solver currently working as a <strong>Decision Scienti
 - 📫 Reach me at **abhishekmgs9@gmail.com**  
 - ⚡ Fun fact: I believe clarity > cleverness — and data proves it.
 
-<!-- 🌟 Animated H1 Below -->
-<style>
-  .typing-header {
-    font-size: 1.8em;
-    font-family: monospace;
-    white-space: nowrap;
-    overflow: hidden;
-    border-right: 2px solid black;
-    width: 0;
-    animation: typing 4s steps(30, end) forwards, blink 0.7s step-end infinite;
-    margin-top: 40px;
-  }
-
-  @keyframes typing {
-    to {
-      width: 100%;
-    }
-  }
-
-  @keyframes blink {
-    50% {
-      border-color: transparent;
-    }
-  }
-</style>
-
-<h1 class="typing-header">Not to forget that once:</h1>
+<h1>Not to forget that once:</h1>
 
 <p>
   <b>I was into Web development and Android app development, Love Flutter❤️.</b>
