@@ -1,6 +1,6 @@
 <!---[![MasterHead](add banner image URL if needed)]--->
 <h1 align="center">Hi 👋, I'm Abhishekh Kumar</h1>
-<h3 align="center">Data Analyst | Decision Scientist | Learner & Builder</h3>
+<h3 align="center">Data Analyst | Data Scientist | Learner & Builder</h3>
 <img align="right" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnd3bHp0OTVkb2phdmU1dW15MXI0bmNmb245MjU2dWtvOGUwbGhxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" alt="Giph not loading"/>
 
 <!-- the first image i used  -->
