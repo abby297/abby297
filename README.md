@@ -3,9 +3,6 @@
 <h3 align="center">Data Analyst | Data Scientist | Learner & Builder</h3>
 <img align="right" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnd3bHp0OTVkb2phdmU1dW15MXI0bmNmb245MjU2dWtvOGUwbGhxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" alt="Giph not loading"/>
 
-<!-- the first image i used  -->
-<!--<img align="right" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/> -->
-
 <p align="left"> <a href="https://twitter.com/abhishe21569572" target="blank"><img src="https://img.shields.io/twitter/follow/abhishe21569572?logo=twitter&style=for-the-badge" alt="abhishe21569572" /></a> </p>
 
 <h4> About me</h4>
@@ -13,17 +10,44 @@
 I'm a data-driven problem solver currently working as a <strong>Decision Scientist at PhonePe</strong>, focused on analytics, machine learning workflows, and automation for large-scale digital platforms. I enjoy turning raw data into actionable insights and building systems that scale.
 </p>
 
-- 🔭 Currently working on **anomaly detection logic, dashboarding, and automation**
-- 🌱 Learning more about **model deployment and product analytics**
-- 💬 Ask me about **SQL, Python (pandas, matplotlib), Airflow, MLflow, QlikSense**
-- 📫 Reach me at **abhishekmgs9@gmail.com**
+- 🔭 Currently working on **anomaly detection logic, dashboarding, and automation**  
+- 🌱 Learning more about **model deployment and product analytics**  
+- 💬 Ask me about **SQL, Python (pandas, matplotlib), Airflow, MLflow, QlikSense**  
+- 📫 Reach me at **abhishekmgs9@gmail.com**  
 - ⚡ Fun fact: I believe clarity > cleverness — and data proves it.
-<h1>Not to forget that once:</h1>
+
+<!-- 🌟 Animated H1 Below -->
+<style>
+  .typing-header {
+    font-size: 1.8em;
+    font-family: monospace;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 2px solid black;
+    width: 0;
+    animation: typing 4s steps(30, end) forwards, blink 0.7s step-end infinite;
+    margin-top: 40px;
+  }
+
+  @keyframes typing {
+    to {
+      width: 100%;
+    }
+  }
+
+  @keyframes blink {
+    50% {
+      border-color: transparent;
+    }
+  }
+</style>
+
+<h1 class="typing-header">Not to forget that once:</h1>
+
 <p>
   <b>I was into Web development and Android app development, Love Flutter❤️.</b>
-  <p>Forever greateful to <a href="https://www.nitp.ac.in/">Nit Patna<a></p>
+  <p>Forever grateful to <a href="https://www.nitp.ac.in/">Nit Patna</a></p>
 </p>
-
 
 ---
 
