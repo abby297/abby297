@@ -16,7 +16,7 @@ I'm a data-driven problem solver currently working as a <strong>Decision Scienti
 - 🔭 Currently working on **anomaly detection logic, dashboarding, and automation**
 - 🌱 Learning more about **model deployment and product analytics**
 - 💬 Ask me about **SQL, Python (pandas, matplotlib), Airflow, MLflow, QlikSense**
-- 📫 Reach me at **abhishekh.kumar0045@gmail.com**
+- 📫 Reach me at **abhishekmgs9@gmail.com**
 - ⚡ Fun fact: I believe clarity > cleverness — and data proves it.
 <h1>Not to forget that once:</h1>
 <p>
