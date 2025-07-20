@@ -1,8 +1,11 @@
 <!---[![MasterHead](add banner image URL if needed)]--->
 <h1 align="center">Hi 👋, I'm Abhishekh Kumar</h1>
 <h3 align="center">Data Analyst | Decision Scientist | Learner & Builder</h3>
+<img align="right" width="400" src="[https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJieXBicndnMDh4dmpvcGllaWlwNGtndzFmNHAyd2Zlc3RiZGlmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif
+)"/>
 
-<img align="right" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<!-- the first image i used  -->
+<!--<img align="right" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/> -->
 
 <p align="left"> <a href="https://twitter.com/abhishe21569572" target="blank"><img src="https://img.shields.io/twitter/follow/abhishe21569572?logo=twitter&style=for-the-badge" alt="abhishe21569572" /></a> </p>
 
@@ -16,6 +19,8 @@ I'm a data-driven problem solver currently working as a <strong>Decision Scienti
 - 💬 Ask me about **SQL, Python (pandas, matplotlib), Airflow, MLflow, QlikSense**
 - 📫 Reach me at **abhishekh.kumar0045@gmail.com**
 - ⚡ Fun fact: I believe clarity > cleverness — and data proves it.
+
+- I was into Web development and Android app development, Love Flutter❤️.
 
 ---
 
